@@ -1,8 +1,6 @@
-# downAppTest
+# Down App Test
 
-Hi!
-
-The main focus of my work was to replicate the UI/UX as closely as possible while keeping the architecture simple yet testable.
+The main focus of my work was to replicate the UI/UX of a Down App as possible while keeping the architecture simple yet testable.
 
 Given the constraints of 4 hours, I decided to go with SwiftUI as it allows me to focus on the UI itself, rather than writing boilerplate code.
 
